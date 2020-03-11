@@ -11,5 +11,4 @@ Javascript ES6
 Node
 React
 
-# Site
 ![Image description](/note-app.gif)
